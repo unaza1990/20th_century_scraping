@@ -28,5 +28,5 @@ To build a reproducible workflow that scrapes structured information from Wikipe
 ---
 
 ✅ Built as part of the Data Visualizations in Python Specialization  
-✅ Authored by Muhammad Dildar  
+✅ Authored by Unaza Ali  
 Add project README
